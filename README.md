@@ -1,4 +1,5 @@
-<a href="https://sunjong0214.github.io" target="_blank"><img src="https://img.shields.io/badge/Githubpages?style=flat&logo-square&logo=222222&logoColor=000000"/></a>
+<a href="https://sunjong0214.github.io" target="_blank"><img src="https://img.shields.io/badge/Githubpages?style=flat-square&logo=222222&logoColor=white"/></a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunjong0214&show_icons=true&theme=radical)
 <!--
 **sunjong0214/sunjong0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

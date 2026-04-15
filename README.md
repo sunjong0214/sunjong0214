@@ -1,11 +1,4 @@
 <a href="https://sunjong0214.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=github&logoColor=white"/></a>
-## Now Playing
-
-<div align="center">
-
-<img width="72%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31edeh4lprfnr4cf4hg2leqsma64&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=true&bar_color=22C55E&bar_color_cover=false" alt="Spotify Now Playing"/>
-
-</div>
 
 <br/>
 
